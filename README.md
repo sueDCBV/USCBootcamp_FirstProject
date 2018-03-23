@@ -1,4 +1,4 @@
-##### THoughts/ Ideas/ MEows
+##### Thoughts/ Ideas/ Meows
 
 
 Do Today
@@ -10,7 +10,7 @@ Do Today
   Done by Nana (need to update though)
 2. Everyone else should be a collaborator and clone
  (Need Yinling Wang's Git Username, Need to add Lindsay)
-3. Group Name
+3. Group Name: Trendsetter, JustCode, PyitUp
 
 
 Ideas:
