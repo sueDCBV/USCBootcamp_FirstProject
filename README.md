@@ -1,16 +1,16 @@
 # Project 1 - Simple Buyer Guide
 
-####Group Name: PyitUp
+#### Group Name: PyitUp
 -------------------------------
-####Member Name: Lindsay, Nana, Sonia, Sue, Yinling, 
+#### Member Name: Lindsay, Nana, Sonia, Sue, Yinling, 
 
-###Purpose = build a simple house buyer guide for selected LA cities within LA County  
+### Purpose = build a simple house buyer guide for selected LA cities within LA County  
 
-###Scope: 
+### Scope: 
 
 * Buyer profile: first time buyer, school focus buyer (for kids), professional buyer, rich buyer,
 * Region: LA County
-* Time: Most Recent data (ìless than a yearî)
+* Time: Most Recent data (‚Äúless than a year‚Äù)
 
 * Database: 
 	County Data
