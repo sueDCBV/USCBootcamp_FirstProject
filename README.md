@@ -63,9 +63,8 @@ import math
 import pandas as pd
 import xml.etree.ElementTree as ET
 import time
-# from config import zws_id, gkey # please use your own Zillow & Google API keys!
-zws_id='X1-ZWz18olpf98c97_2xcn2'
-gkey="AIzaSyDuR6Ej6fNbaY-gjZRaA0t3THaJw-UNai8"
+from config import zws_id, gkey # please use your own Zillow & Google API keys!
+
 from urllib.request import urlopen
 ```
 
