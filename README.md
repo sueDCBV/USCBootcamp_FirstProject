@@ -28,7 +28,7 @@ e Google Data: various API link for different purpose: Geocode, search amenities
 1. Average House price by city
 2. Average School ranking by city
 3. Employment data by city
-4. # of Shops by city
+4. number of Shops by city
 5. Public Transporation by city
 6. Location data
 7. Other Housing Data
