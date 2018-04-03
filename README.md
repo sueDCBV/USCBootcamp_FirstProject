@@ -15,14 +15,14 @@
 * Time: Most Recent data (Data range from 2016, 2017 mainly)
 
 * Database: 
-a Census data: https://github.com/CommerceDataService/census-wrapper
+a. Census data: https://github.com/CommerceDataService/census-wrapper
 ⋅⋅⋅The most updated census data from wrapper is 2016
-b Crime data: https://catalog.data.gov/dataset/crime-data-from-2010-to-present (from: data.lacity.org)
+b. Crime data: https://catalog.data.gov/dataset/crime-data-from-2010-to-present (from: data.lacity.org)
 ⋅⋅⋅Crime Data was not incorporated into the final project due to the size of data and the limiation of pulling Geo info from google. 
-c School Ranking Data: http://school-ratings.com/counties/Los_Angeles.html
+c. School Ranking Data: http://school-ratings.com/counties/Los_Angeles.html
 ⋅⋅⋅School Ranking Data is provided directly from the website not API pulling needed	
-d Zillow API: https://www.zillow.com/webservice/GetSearchResults.htm?
-e Google Data: various API link for different purpose: Geocode, search amenities, etc.
+d. Zillow API: https://www.zillow.com/webservice/GetSearchResults.htm?
+e. Google Data: various API link for different purpose: Geocode, search amenities, etc.
 
 ### Metrics:
 1. Average House price by city
