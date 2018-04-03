@@ -3776,7 +3776,7 @@ plt.savefig("../Clean_Data/3.Unemployment_Poverty_rate_by_City.png")
 ```
 
 
-![png](output_17_0.png)
+![png](Clean_Data/3.Unemployment_Poverty_rate_by_City.png)
 
 
 # WALKABLE ANALYSIS
@@ -3891,7 +3891,7 @@ plt.savefig("../Clean_Data/3.Walk_time_by_City.png")
 ```
 
 
-![png](output_20_0.png)
+![png](Clean_Data/3.Walk_time_by_City.png)
 
 
 
@@ -3914,7 +3914,7 @@ plt.savefig("../Clean_Data/3.Walk_time_by_City_no_la.png")
 ```
 
 
-![png](output_21_0.png)
+![png](Clean_Data/3.Walk_time_by_City_no_la.png)
 
 
 # AGE ANALYSIS
@@ -4027,7 +4027,7 @@ plt.savefig("../Clean_Data/3.Age_analysis_city.png")
 ```
 
 
-![png](output_24_0.png)
+![png](Clean_Data/3.Age_analysis_city.png)
 
 
 
@@ -4174,7 +4174,7 @@ plt.savefig("../Clean_Data/3.Education_none_by_City.png")
 ```
 
 
-![png](output_27_0.png)
+![png](Clean_Data/3.Education_none_by_City.png)
 
 
 
