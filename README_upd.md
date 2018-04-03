@@ -3629,7 +3629,7 @@ plt.savefig("../Clean_Data/3.Gini_index_by_City.png")
 ```
 
 
-![png](output_14_0.png)
+![png](Clean_Data/3.Gini_index_by_City.png)
 
 
 
