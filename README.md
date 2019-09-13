@@ -1,4 +1,4 @@
-﻿# Project 1 - Simple Buyer Guide
+﻿# Simple Buyer Guide
 
 #### Group Name: PyitUp
 -------------------------------
