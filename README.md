@@ -1,5 +1,8 @@
 ﻿# Simple Buyer Guide
 
+![LA County](/Admin/usa-2661636_960_720.jpg)
+Format: ![Alt Text](url)
+
 #### Group Name: PyitUp
 -------------------------------
 #### Member Name: 
