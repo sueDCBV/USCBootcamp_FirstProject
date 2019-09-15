@@ -5,7 +5,7 @@
 
 
 #Using Census API to obtain information of interest to choose a city when buying a property
-# code by Sue Del Carpio Bellido
+# code by Sue Del Carpio Bellido Vargas
 
 # Dependencies
 import numpy as np
