@@ -1,4 +1,7 @@
 ﻿# Simple Buyer Guide
+Real state analysis using Zillow data to find good options for buying a house in LA County.
+
+![LA County](/Admin/usa-2661636_960_720.jpg)
 
 ## Group Name: PyitUp
 - Lindsay Yan: https://www.linkedin.com/in/lindsay-yan-8a09469b/
@@ -7,16 +10,10 @@
 - Sue Del Carpio Bellido: https://www.linkedin.com/in/suedelcarpiobellido/
 - Yinling Wang 
 
-![LA County](/Admin/usa-2661636_960_720.jpg)
-
-
-
-### Purpose 
-
+## Purpose 
 * Building a simple home guide to home buyers on multiple factors associated with house prices in order to make the buyers more informed when they are making buying decisions
 
-### Scope: 
-
+## Scope 
 * Target Buyer profile: first time buyer, school focus buyer (for kids), professional buyer, rich buyer, investment buyer
 * Region: LA County
 * Time: Most Recent data (Data range from 2016, 2017 mainly)
