@@ -1,15 +1,17 @@
 ﻿# Simple Buyer Guide
 
-![LA County](/Admin/usa-2661636_960_720.jpg)
-
 #### Group Name: PyitUp
 -------------------------------
 #### Member Name: 
-#### Lindsay Yan: https://www.linkedin.com/in/lindsay-yan-8a09469b/
-#### Nana Zhuohui Liang: https://www.linkedin.com/in/nana-zhuohui-liang-22a9302a/
-#### Sonia Yang: https://www.linkedin.com/in/sonia-yang-69504438/
-#### Sue Del Carpio Bellido: https://www.linkedin.com/in/suedelcarpiobellido/
-#### Yinling Wang: 
+- Lindsay Yan: https://www.linkedin.com/in/lindsay-yan-8a09469b/
+- Nana Zhuohui Liang: https://www.linkedin.com/in/nana-zhuohui-liang-22a9302a/
+- Sonia Yang: https://www.linkedin.com/in/sonia-yang-69504438/
+- Sue Del Carpio Bellido: https://www.linkedin.com/in/suedelcarpiobellido/
+- Yinling Wang 
+
+![LA County](/Admin/usa-2661636_960_720.jpg)
+
+
 
 ### Purpose 
 
