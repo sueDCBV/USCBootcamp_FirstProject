@@ -20,13 +20,14 @@ Real state analysis using Zillow data to find good options for buying a house in
 
 ## Database 
 1. Census data: https://github.com/CommerceDataService/census-wrapper
-The most updated census data from wrapper is 2016
+- The most updated census data from wrapper is 2016
 2. Crime data: https://catalog.data.gov/dataset/crime-data-from-2010-to-present (from: data.lacity.org)
-Crime Data was not incorporated into the final project due to the size of data and the limitation of pulling Geo info from Google. 
+- Crime Data was not incorporated into the final project due to the size of data and the limitation of pulling Geo info from Google. 
 3. School Ranking Data: http://school-ratings.com/counties/Los_Angeles.html
-School Ranking Data is provided directly from the website not API pulling needed.	
+- School Ranking Data is provided directly from the website not API pulling needed.	
 4. Zillow API: https://www.zillow.com/webservice/GetSearchResults.htm?
-5. Google Data: various API link for different purpose: Geocode, search amenities, etc.
+5. Google Data
+- Various API link for different purpose: Geocode, search amenities, etc.
 
 ## Metrics
 1. Average House price by city
