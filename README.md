@@ -1,8 +1,7 @@
 ﻿# Simple Buyer Guide
 
-#### Group Name: PyitUp
--------------------------------
-#### Member Name: 
+## Group Name: PyitUp
+----------------------
 - Lindsay Yan: https://www.linkedin.com/in/lindsay-yan-8a09469b/
 - Nana Zhuohui Liang: https://www.linkedin.com/in/nana-zhuohui-liang-22a9302a/
 - Sonia Yang: https://www.linkedin.com/in/sonia-yang-69504438/
