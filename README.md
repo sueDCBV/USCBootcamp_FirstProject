@@ -38,12 +38,8 @@ Real state analysis using Zillow data to find good options for buying a house in
 6. Location data
 7. Other Housing Data
 
-## Recommendation: End Produce - What we need to provide to the Client:
-* Various Graph to compare different attribute by city (more than just housing price) 
-* Suggest City choice to different Buyers 
 
-
-### Code 
+# Code 
 #### 1-1.LA_cities_Lat_lng_code
 ```python
 # Dependencies
