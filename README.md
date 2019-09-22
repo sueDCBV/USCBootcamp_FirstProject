@@ -61,6 +61,7 @@ city_address=pd.read_csv('../Raw_Data/1-1.city_codes.csv',sep=',')
 LA_cities=city_address[city_address['Metro']=='Los Angeles']
 ```
 
+# Reducing scope for our study
 
 ```python
 list_city=['Los Angeles',
