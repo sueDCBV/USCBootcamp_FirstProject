@@ -163,19 +163,7 @@ final
 ```
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
 
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -293,9 +281,6 @@ list_Region=final['Region']
 list_Region
 ```
 
-
-
-
     0       Los Angeles
     1        Long Beach
     2          Glendale
@@ -318,7 +303,7 @@ list_Region
     Name: Region, dtype: object
 
 
-
+# Calling Google Geocode API (set boundaries for each city)
 
 ```python
 # Run a request to endpoint and convert result to json
