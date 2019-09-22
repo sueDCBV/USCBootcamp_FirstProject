@@ -61,32 +61,6 @@ city_address=pd.read_csv('../Raw_Data/1-1.city_codes.csv',sep=',')
 LA_cities=city_address[city_address['Metro']=='Los Angeles']
 ```
 
-# Reducing scope for our study
-
-```python
-list_city=['Los Angeles',
-'Long Beach',
-'Santa Clarita',
-'Glendale',
-'Palmdale',
-'Lancaster',
-'Pomona',
-'Torrance',
-'Pasadena',
-'Inglewood',
-'El Monte',
-'Downey',
-'West Covina',
-'Norwalk',
-'Burbank',
-'Compton',
-'South Gate',
-'Whittier',
-'Hawthrone',
-'Alhambra']
-```
-
-
 ```python
 LA_cities.head()
 ```
@@ -150,7 +124,30 @@ LA_cities.head()
 </div>
 
 
+# Reducing scope for our study
 
+```python
+list_city=['Los Angeles',
+'Long Beach',
+'Santa Clarita',
+'Glendale',
+'Palmdale',
+'Lancaster',
+'Pomona',
+'Torrance',
+'Pasadena',
+'Inglewood',
+'El Monte',
+'Downey',
+'West Covina',
+'Norwalk',
+'Burbank',
+'Compton',
+'South Gate',
+'Whittier',
+'Hawthrone',
+'Alhambra']
+```
 
 ```python
 final=[]
@@ -164,9 +161,6 @@ for i in range(len(LA_cities)):
 final = pd.DataFrame(final)
 final
 ```
-
-
-
 
 <div>
 <style>
