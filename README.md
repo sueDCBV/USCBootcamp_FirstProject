@@ -553,6 +553,8 @@ address_coordinate
 #address_coordinate
 address_coordinate.to_csv('../Raw_Data/1-1.LA_cities_Lat_lng_codes_data.csv',sep=',', index=None)
 ```
+# As a result, we have a list of cities in LA County to analyze, all of them have boundaries based on their coordinates 
+
 
 #### 1-2.City_Zipcode
 ```python
