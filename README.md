@@ -126,7 +126,7 @@ LA_cities.head()
 </div>
 
 
-# Reducing scope for our study
+### Reducing scope for our study
 
 ```python
 list_city=['Los Angeles',
