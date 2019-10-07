@@ -556,7 +556,8 @@ address_coordinate
 address_coordinate.to_csv('../Raw_Data/1-1.LA_cities_Lat_lng_codes_data.csv',sep=',', index=None)
 ```
 
-#### 1-2.City_Zipcode
+## 1-2.City_Zipcode
+### Code to get cities zipcodes in LA.
 ```python
 # Dependencies
 import requests
@@ -579,19 +580,6 @@ LA_counties.head()
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
