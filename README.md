@@ -42,7 +42,9 @@ Real state analysis using Zillow data to find good options for buying a house in
 --------------------------------------------------------------------------
 
 # Code 
-#### 1-1.LA_cities_Lat_lng_code
+## 1-1.LA_cities_Lat_lng_code
+
+### Code required to get a list of cities in LA County to analyze with their areas based on their coordinates.
 ```python
 # Dependencies
 import requests
@@ -303,7 +305,7 @@ list_Region
     Name: Region, dtype: object
 
 
-# Calling Google Geocode API (set boundaries for each city)
+### Calling Google Geocode API (set boundaries for each city)
 
 ```python
 # Run a request to endpoint and convert result to json
@@ -553,8 +555,6 @@ address_coordinate
 #address_coordinate
 address_coordinate.to_csv('../Raw_Data/1-1.LA_cities_Lat_lng_codes_data.csv',sep=',', index=None)
 ```
-### As a result, we have a list of cities in LA County to analyze, all of them have boundaries based on their coordinates 
-
 
 #### 1-2.City_Zipcode
 ```python
