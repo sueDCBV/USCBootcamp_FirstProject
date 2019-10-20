@@ -1,4 +1,4 @@
-﻿# Simple Buyer Guide
+﻿# LA CITIES HOME BUYER GUIDE USING ANALYTICS
 Real state analysis using Zillow data to find good options for buying a house in LA County.
 
 ![LA County](/Admin/usa-2661636_960_720.jpg)
@@ -28,23 +28,12 @@ Real state analysis using Zillow data to find good options for buying a house in
 4. Zillow API: https://www.zillow.com/webservice/GetSearchResults.htm?
 5. Google Data
 - Various API link for different purpose: Geocode, search amenities, etc.
-
-## Metrics
-1. Average House price by city
-2. Average School ranking by city
-3. Employment data by city
-4. number of Shops by city
-5. Public Transportation by city
-6. Location data
-7. Other Housing Data
-
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
 
-# Code 
-## 1-1.LA_cities_Lat_lng_code
-
-### Code required to get a list of cities in LA County to analyze with their areas based on their coordinates.
+# HOW WE DID IT?
+## 1. Get a list of cities in LA County to analyze, including their areas based on their coordinates.
+### 1-1.LA_cities_Lat_lng_code
 ```python
 # Dependencies
 import requests
