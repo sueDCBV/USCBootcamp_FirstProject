@@ -545,8 +545,8 @@ address_coordinate
 address_coordinate.to_csv('../Raw_Data/1-1.LA_cities_Lat_lng_codes_data.csv',sep=',', index=None)
 ```
 
-## 1-2.City_Zipcode
-### Code to get cities zipcodes in LA.
+## 2. Get cities zipcodes in LA
+### 1-2.City_Zipcode
 ```python
 # Dependencies
 import requests
@@ -791,7 +791,8 @@ Table.head()
 </table>
 </div>
 
-#### 2.Google_Search_Airport_Park_Transportation_Mall_By_City
+## 3. Using Google Search to obtain closest amenities by cities, in order to get more decision factors for buyer 
+### Code 2.Google_Search_Airport_Park_Transportation_Mall_By_City
 
 ```python
 #Using Google Search to obtain closest amenities by cities
@@ -2267,13 +2268,13 @@ plt.savefig("../Clean_Data/2.Amenities_by_city.png")
 
     <matplotlib.figure.Figure at 0x24c8c9983c8>
 
-
+### Final Product
 
 ![png](Clean_Data/2.Amenities_by_city.png)
 
-#### 3.Pyitup_Census_Analysis
-
-
+## 4. Using Census API we are going to obtain more information of interest to choose a city when buying a property:
+## Poverty rate, unemployment rate, gini index
+### Code Pyitup_Census_Analysis
 
 ```python
 #Using Census API to obtain information of interest to choose a city when buying a property
