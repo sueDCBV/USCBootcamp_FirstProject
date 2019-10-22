@@ -4383,7 +4383,7 @@ plt.show()
 
 
 
-## Get address to analyze: Zillow analysis!
+## 6. Get address to analyze: Zillow analysis!
 ### Code: get_zillow_data-Read before running the code
 
 1. The Zillow API have 1000 daily request limitation, please use your own zws_id and gkey (google api) to run the code for your city (each person responsible for two city)
@@ -14419,7 +14419,8 @@ final_df.head()
 # Save file into Clean Data folder
 final_df.to_csv(f'../Clean_Data/5-2.Combined_zillow_data.csv')
 ```
-#### 6-1.General_Housing_Info_Plot
+## 7: Plot housing data
+### Code: General_Housing_Info_Plot
 
 
 
@@ -15355,4 +15356,17 @@ plt.show()
 
 ![png](Clean_Data/6-2.Average_year_built_Per_City.png)
 
+# CONCLUSIONS
+Analyzing all results we can make some recommendations based on metrics
+
+#### First Time Buyer:  Torrance / Los Angeles
+- Reasonable House Price / Convenient Amenities 
+#### Rich Buyer: Pasadena / Glendale / Burbank
+- House Price / Airport / Household Income Distribution
+#### School Focus Buyer:  Torrance / Santa Clarita / Burbank / Glendale / Alhambra
+- Good School Ranking
+#### Professional Buyer: Los Angeles / Long Beach / Pasadena
+- Convenient / Career Potential / Higher Average Income / Transportation
+#### Investment Buyer: Pasadena / Burbank / Alhambra / Glendale
+- Rent Price / House Price Growth Rate / High House Price Ranges 
 
